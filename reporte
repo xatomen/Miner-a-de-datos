@@ -1,0 +1,37 @@
+Con respecto al reporte:
+
+Lo que NO hay que hacer:
+
+1) Screenshots de codigo. No.
+2) Colocar el codigo que el profesor les entrega. No.
+3) Comentar el codigo del profe en el trabajo es perdida de papel. Solo comentar el codigo del profe si has realizado una modificacion significativa. Eso si debe comentar y explicar porque realizastes esa modificacion. LOS ALUMNOS PUEDEN USAR Y MODIFICAR EL CODIGO A GUSTO.
+4) Los graficos deben tener un titulo, deben tener que es cada eje, deben tener una leyenda, deben llevar un numero correlativo. El grafico DEBE ser comentado, por ende, referenciado, en el texto del trabajo. Si quieres poner graficos sin comentar, debes crear un anexo al final.
+5) En las conclusiones, no deben inventar algo de la nada o sacar algo de otro lado, las conclusiones DEBEN inferirse del analysis//experimentos hechos.
+6) Plagio => 1. Plagio considera: ChatGPT y considera una traduccion automatica directa de Google. Es necesario refrasear si estas traduciendo o utilizando una herramienta automatica y debes referenciar de donde los sacastes.
+7) Font: usar por lomenos algo entre 11pt y 12pt.
+
+Lo que HAY que hacer:
+
+1) Cuando pongan un grafico, uds. deben asegurarse que yo lo puedo entender.
+2) indice clickeable => hago clic en el numero de pagina y me lleva ahi.
+3) Debe estar referenciado todo: libros, papers, pagina webs, links a los sitios de descarga de las herramientas que usen (pie de pagina en la primera aparicion), todo eso .
+4) Debes tener los margenes justificados.
+5) En la portada deben estar los nombre y los RUTs de cada uno de los integrantes del grupo. Si alguien no esta no lleva nota.
+6) Deben tener una seccion de conclusiones.
+7) Portada
+   Indice
+   Intro
+   Describir tu problema//dataset: para describir el dataset pueden utilizar algunas estadisticas basicas como el numero registros, el numero de palabras, el tamanno del diccionario., nube de palabras (para explicar de que puede estar hablando la coleccion).
+   metodologica (explicar el transfondo de las herramientas que van a utilizar: que les permite hacer), el marco experimental que van a usar (cross-validation, heldout....), como generaron los "split"/"folders".
+   Resultados y el analysis
+   Conclusiones [la amalagama de las conclusiones de los talleres o dicho de otra forma, generalizacion de las conclusiones de los talleres]
+   Biblio
+   Anexo(s) (if any!)
+8) rubrica
+
+Enunciado para los talleres: El informe se tratara de hacer un analisis de los resultados de cada taller.
+Enunciado trabajo final: Mejora, ponerle mas sustancia (sino terminaste en clases), crear un hilo un conductor entre los talleres.
+Cada grupo DEBE enviarme su inscripcion por mail (nombre, rut) y yo les asignare un dataset de trabajo.
+Consejo: Cuando escriban el reporte, piensen que lo debe entender algun compannero de uds que no este tomando el curso.
+
+
